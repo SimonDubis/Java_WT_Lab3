@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cases>
+    <case>
+        <id>1</id>
+        <firstName>Boris</firstName>
+        <lastName>Isayenia</lastName>
+    </case>
+    <case>
+        <id>2</id>
+        <firstName>Vlad</firstName>
+        <lastName>Simuta</lastName>
+    </case>
+    <case>
+        <id>3</id>
+        <firstName>Vadim</firstName>
+        <lastName>Svistunov</lastName>
+    </case>
+    <case>
+        <id>4</id>
+        <firstName>Anna</firstName>
+        <lastName>Makarushko</lastName>
+    </case>
+    <case>
+        <id>5</id>
+        <firstName>Dmitry</firstName>
+        <lastName>Gordon</lastName>
+    </case>
+</cases>
